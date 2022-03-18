@@ -28,8 +28,16 @@ class _Database{
         }else{
             return false;
         }
-        
-
+    }
+    public function getRows(int $num){
+        $conn = $this->connect();
+        $sql = "SELECT * FROM `covid19` LIMIT $num;";
+        $query = $conn->query($sql);
+        if($query && $query->num_rows > 0){
+            return $query->fetch_all();
+        }else{
+            return null;
+        }
     }
 
 }

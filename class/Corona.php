@@ -97,4 +97,18 @@ class Corona
             return null;
         }
     }
+
+    public function GetAll(int $days){
+        require_once "../db/config.php";
+        $Database = new _Database;
+        $rows = $Database->getRows($days);
+        if($rows != null){
+
+            return $rows;
+
+        }else{
+            return false;
+        }
+
+    }
 }
