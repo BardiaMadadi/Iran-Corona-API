@@ -12,7 +12,7 @@ based on [disease-sh](https://github.com/disease-sh/api"disease-sh")
 ## How To Use :
 > 1- Clone Project https://github.com/BardiaMadadi/Iran-Corona-API.git
 > <br/>
-> 2- Download Database File [irancorona.sql](http://https://github.com/BardiaMadadi/Iran-Corona-API/blob/main/db/irancorona.sql "irancorona.sql")
+> 2- Download Database File [irancorona.sql](https://github.com/BardiaMadadi/Iran-Corona-API/blob/main/db/irancorona.sql"irancorona.sql")
 > <br/>
 > 3- Import Database & use phpmyadmin for more controll
 > <br/>
@@ -54,7 +54,7 @@ based on [disease-sh](https://github.com/disease-sh/api"disease-sh")
 ## چطوری استفاده کنیم :
 > 1-  https://github.com/BardiaMadadi/Iran-Corona-API.git پروژه رو کلون کنید
 > <br/>
-> 2-  [irancorona.sql](http://https://github.com/BardiaMadadi/Iran-Corona-API/blob/main/db/irancorona.sql "irancorona.sql") فایل دیتابیس رو دانلود کنید 
+> 2-  [irancorona.sql](https://github.com/BardiaMadadi/Iran-Corona-API/blob/main/db/irancorona.sql"irancorona.sql") فایل دیتابیس رو دانلود کنید 
 > <br/>
 > 3- استفاده کنید phpmy admin دیتابیس رو ایمپورت کنید و برای کنترل بهتر از
 > <br/>
