@@ -55,9 +55,8 @@
 > <br/>
 > 3- استفاده کنید phpmy admin دیتابیس رو ایمپورت کنید و برای کنترل بهتر از
 > <br/>
-
 > 4- را هر 24 ساعت اجرا کنید [this api](httphttps://github.com/BardiaMadadi/Iran-Corona-API/blob/main/api/RunEveryDay.php:// "this api") فایل
-<r/>
+> <br/>
 -----
 
 ## Doc :
