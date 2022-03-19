@@ -1,4 +1,7 @@
 # Basic Covid-19 API for Iran
+based on [disease-sh](https://github.com/disease-sh/api"disease-sh")
+<br/>
+<br/>
 ![](https://img.shields.io/github/stars/BardiaMadadi/Iran-Corona-API.svg)
 ![](https://img.shields.io/github/forks/BardiaMadadi/Iran-Corona-API.svg)
 ![](https://img.shields.io/github/issues/BardiaMadadi/Iran-Corona-API.svg)
